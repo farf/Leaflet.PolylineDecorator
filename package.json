@@ -1,0 +1,22 @@
+{
+  "name": "Leaflet.PolylineDecorator",
+  "version": "1.0.0",
+  "description": "A Leaflet plug-in to define and draw patterns on existing Polylines or along coordinate paths.",
+  "main": "leaflet.polylineDecorator.min.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farf/Leaflet.PolylineDecorator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farf/Leaflet.PolylineDecorator/issues"
+  },
+  "homepage": "https://github.com/farf/Leaflet.PolylineDecorator"
+}
