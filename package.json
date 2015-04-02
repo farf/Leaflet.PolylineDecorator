@@ -2,7 +2,7 @@
   "name": "Leaflet.PolylineDecorator",
   "version": "1.0.0",
   "description": "A Leaflet plug-in to define and draw patterns on existing Polylines or along coordinate paths.",
-  "main": "leaflet.polylineDecorator.min.js",
+  "main": "leaflet.polylineDecorator.js",
   "directories": {
     "example": "example"
   },
